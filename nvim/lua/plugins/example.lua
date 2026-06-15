@@ -118,7 +118,6 @@ return {
   -- add more treesitter parsers
   {
     "nvim-treesitter/nvim-treesitter",
-    branch = "master",
     opts = {
       ensure_installed = {
         "bash",
@@ -131,8 +130,6 @@ return {
         "python",
         "query",
         "regex",
-        "rust",
-        "sql",
         "tsx",
         "typescript",
         "vim",
