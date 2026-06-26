@@ -7,7 +7,7 @@ return {
     legacy_commands = false,
     ui = {
       enable = false,
-    }
+    },
     note_id_func = function(title)
       return title -- Dateiname = Titel
     end,
