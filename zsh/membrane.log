@@ -1,0 +1,9 @@
+08:56:28,877  INFO 3 main HttpEndpointListener:85 {} - listening at [95m'*:2000'[0m
+08:56:28,878  INFO 3 main HttpEndpointListener:85 {} - listening at [95m'*:9000'[0m
+08:56:28,879  INFO 3 main ApiInfo:34 {} - Started 4 APIs:
+08:56:28,879  INFO 3 main ApiInfo:36 {} -  [92m 0.0.0.0:2000 /fact[0m
+08:56:28,879  INFO 3 main ApiInfo:36 {} -  [92m Fruit Shop API[0m
+                                                       - "fruit-shop-api-v2-2-0" @ openapi/fruitshop-v2-2-0.oas.yml
+08:56:28,879  INFO 3 main ApiInfo:36 {} -  [92m 0.0.0.0:2000[0m
+08:56:28,879  INFO 3 main ApiInfo:36 {} -  [92m 0.0.0.0:9000[0m
+08:56:28,880  INFO 3 main RouterCLI:456 {} - [96mMembrane API Gateway 7.2.5 up and running![0m
